@@ -417,7 +417,7 @@ animations = [{
 radius = 4.0
 
 [node name="player" type="CharacterBody2D"]
-y_sort_enabled = true
+z_index = 1
 script = ExtResource("1_0bskv")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
@@ -426,4 +426,6 @@ animation = &"front_walk"
 offset = Vector2(0, -15)
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+y_sort_enabled = true
+position = Vector2(1, -2)
 shape = SubResource("CircleShape2D_jakm3")
