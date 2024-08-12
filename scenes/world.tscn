@@ -1,7 +1,7 @@
 [gd_scene load_steps=9 format=3 uid="uid://bd3dpxlvi2rgx"]
 
-[ext_resource type="Texture2D" uid="uid://bj1a1umq8f030" path="res://art/tilesets/grass.png" id="1_qgrxm"]
-[ext_resource type="Texture2D" uid="uid://wotwbrxr3e31" path="res://art/tilesets/plains.png" id="2_i432g"]
+[ext_resource type="Texture2D" uid="uid://bj1a1umq8f030" path="res://art/tilesets/snow.png" id="1_qgrxm"]
+[ext_resource type="Texture2D" uid="uid://wotwbrxr3e31" path="res://art/tilesets/snow-plains.png" id="2_i432g"]
 [ext_resource type="Texture2D" uid="uid://5lgi10k7uv4w" path="res://art/objects/objects.png" id="3_rju7f"]
 [ext_resource type="PackedScene" uid="uid://bllyg8lvhhmw4" path="res://scenes/player.tscn" id="4_r5aec"]
 
