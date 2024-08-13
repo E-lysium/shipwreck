@@ -1,11 +1,20 @@
 extends CharacterBody2D
 
+# enemy variables
 var speed = 50
 var player_chase = false
 var player = null
 var last_dir = "none"
 
+var health = 100
+var player_in_attack_range = false
+var can_take_damage = true
+
+
+# enemy movement
 func _physics_process(delta):
+	deal_with_damage()
+	
 	if player_chase:
 		move_and_collide(Vector2(0,0))
 		
@@ -21,7 +30,9 @@ func _physics_process(delta):
 			enemy_move_anim("down")
 	else: 
 		enemy_idle_anim()
-		
+
+
+# enemy sprite animation
 func enemy_move_anim(dir):
 	var anim = $AnimatedSprite2D
 	match dir:
@@ -57,6 +68,21 @@ func enemy_idle_anim():
 			anim.play("idle_side")
 
 
+# enemy combat
+func enemy():
+	pass
+	
+func deal_with_damage():
+	if player_in_attack_range and Global.player_current_attack:
+		if can_take_damage:
+			health = health - 10
+			print("slime health = ", health)
+			$take_damage_cooldown.start()
+			can_take_damage = false
+			
+			if health <= 0:
+				self.queue_free()
+
 func _on_detection_area_body_entered(body):
 	player = body
 	player_chase = true
@@ -64,3 +90,14 @@ func _on_detection_area_body_entered(body):
 func _on_detection_area_body_exited(body):
 	player = null
 	player_chase = false
+
+func _on_enemy_hitbox_body_entered(body):
+	if body.has_method("player"):
+		player_in_attack_range = true
+
+func _on_enemy_hitbox_body_exited(body):
+	if body.has_method("player"):
+		player_in_attack_range = false
+
+func _on_take_damage_cooldown_timeout():
+	can_take_damage = true
