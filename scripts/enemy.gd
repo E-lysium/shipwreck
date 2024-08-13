@@ -6,16 +6,18 @@ var player_chase = false
 var player = null
 var last_dir = "none"
 
-var health = 100
+var max_health = 100
+var health = max_health
 var player_in_attack_range = false
 var can_take_damage = true
 
 
-# enemy movement
+# enemy functionality
 func _physics_process(delta):
 	deal_with_damage()
+	update_health()
 	
-	if player_chase:
+	if player_chase and Global.player_health > 0:
 		move_and_collide(Vector2(0,0))
 		
 		position += (player.position - position).normalized() * speed * delta
@@ -101,3 +103,15 @@ func _on_enemy_hitbox_body_exited(body):
 
 func _on_take_damage_cooldown_timeout():
 	can_take_damage = true
+	
+	
+# enemy health
+func update_health():
+	var healthbar = $healthbar
+	
+	healthbar.value = health
+	
+	if health >= max_health:
+		healthbar.visible = false
+	else:
+		healthbar.visible = true
