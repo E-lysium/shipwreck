@@ -32,26 +32,26 @@ func _physics_process(delta):
 func player_movement(delta):
 	if Input.is_action_pressed("ui_right"):
 		current_dir = "right"
-		play_anim(1)
+		play_anim(1, current_dir)
 		velocity.x = speed
 		velocity.y = 0
 	elif Input.is_action_pressed("ui_left"):
 		current_dir = "left"
-		play_anim(1)
+		play_anim(1, current_dir)
 		velocity.x = -speed
 		velocity.y = 0
 	elif Input.is_action_pressed("ui_down"):
 		current_dir = "down"
-		play_anim(1)
+		play_anim(1, current_dir)
 		velocity.x = 0
 		velocity.y = speed
 	elif Input.is_action_pressed("ui_up"):
 		current_dir = "up"
-		play_anim(1)
+		play_anim(1, current_dir)
 		velocity.x = 0
 		velocity.y = -speed
 	else:
-		play_anim(0)
+		play_anim(0, current_dir)
 		velocity.x = 0
 		velocity.y = 0
 	
@@ -59,7 +59,7 @@ func player_movement(delta):
 
 
 # player sprite animation
-func play_anim(movement):
+func play_anim(movement, current_dir):
 	var dir = current_dir
 	var anim = $AnimatedSprite2D
 	
@@ -90,6 +90,10 @@ func play_anim(movement):
 			elif movement == 0:
 				if !attack_in_progress:
 					anim.play("front_idle")
+		"death":
+			anim.play("death")
+		"getting_up":
+			anim.play("getting_up")
 
 
 # player combat
