@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cywrchfrbgopg"
-path="res://.godot/imported/ui_pumpkin_sprite_dante14.png-f03aeb44145d942952d14b8307ac67d4.ctex"
+path="res://.godot/imported/ui_pumpkin_sprite_dante14.png-4c0f418b20e1b6fe99050e0252613b20.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/09_Pumpkin_Theme/Sprites/ui_pumpkin_sprite_dante14.png"
-dest_files=["res://.godot/imported/ui_pumpkin_sprite_dante14.png-f03aeb44145d942952d14b8307ac67d4.ctex"]
+source_file="res://art/ui/09_Pumpkin_Theme/Sprites/ui_pumpkin_sprite_dante14.png"
+dest_files=["res://.godot/imported/ui_pumpkin_sprite_dante14.png-4c0f418b20e1b6fe99050e0252613b20.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cqrdmd2nu4ld5"
-path="res://.godot/imported/UI_Paper_Fillbar_Filler_02a.png-6e4c442b1d4153b169472f0955157e0b.ctex"
+path="res://.godot/imported/UI_Paper_Fillbar_Filler_02a.png-c6ee9b9c29baaa3d6f940a08d4810992.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/02_Paper_Theme/Sprites/UI_Paper_Fillbar_Filler_02a.png"
-dest_files=["res://.godot/imported/UI_Paper_Fillbar_Filler_02a.png-6e4c442b1d4153b169472f0955157e0b.ctex"]
+source_file="res://art/ui/02_Paper_Theme/Sprites/UI_Paper_Fillbar_Filler_02a.png"
+dest_files=["res://.godot/imported/UI_Paper_Fillbar_Filler_02a.png-c6ee9b9c29baaa3d6f940a08d4810992.ctex"]
 
 [params]
 

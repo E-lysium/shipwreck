@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bna5cg40dhw6x"
-path="res://.godot/imported/UI_Hologram_Checkmark_Medium_01a.png-b01e41945567c61784db638e9204d035.ctex"
+path="res://.godot/imported/UI_Hologram_Checkmark_Medium_01a.png-efd4c1a038dc8ae12cc4b5f0bcd6e911.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/06_Hologram_Theme/Sprites/UI_Hologram_Checkmark_Medium_01a.png"
-dest_files=["res://.godot/imported/UI_Hologram_Checkmark_Medium_01a.png-b01e41945567c61784db638e9204d035.ctex"]
+source_file="res://art/ui/06_Hologram_Theme/Sprites/UI_Hologram_Checkmark_Medium_01a.png"
+dest_files=["res://.godot/imported/UI_Hologram_Checkmark_Medium_01a.png-efd4c1a038dc8ae12cc4b5f0bcd6e911.ctex"]
 
 [params]
 

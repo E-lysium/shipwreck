@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://chklqjh4cbysg"
-path="res://.godot/imported/ui_pumpkin_button_simple2.png-8bfa9d3a79e155a57f6619d067ae2142.ctex"
+path="res://.godot/imported/ui_pumpkin_button_simple2.png-a88184abcd053176cb0548f19de55457.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/09_Pumpkin_Theme/Sprites/ui_pumpkin_button_simple2.png"
-dest_files=["res://.godot/imported/ui_pumpkin_button_simple2.png-8bfa9d3a79e155a57f6619d067ae2142.ctex"]
+source_file="res://art/ui/09_Pumpkin_Theme/Sprites/ui_pumpkin_button_simple2.png"
+dest_files=["res://.godot/imported/ui_pumpkin_button_simple2.png-a88184abcd053176cb0548f19de55457.ctex"]
 
 [params]
 

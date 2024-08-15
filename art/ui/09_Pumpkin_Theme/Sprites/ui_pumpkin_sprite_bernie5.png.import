@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://djs1k51rrl45e"
-path="res://.godot/imported/ui_pumpkin_sprite_bernie5.png-d64553394e7d7f256c82fe39791a45b9.ctex"
+path="res://.godot/imported/ui_pumpkin_sprite_bernie5.png-8e802af0deefc148cdba371edd941342.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/09_Pumpkin_Theme/Sprites/ui_pumpkin_sprite_bernie5.png"
-dest_files=["res://.godot/imported/ui_pumpkin_sprite_bernie5.png-d64553394e7d7f256c82fe39791a45b9.ctex"]
+source_file="res://art/ui/09_Pumpkin_Theme/Sprites/ui_pumpkin_sprite_bernie5.png"
+dest_files=["res://.godot/imported/ui_pumpkin_sprite_bernie5.png-8e802af0deefc148cdba371edd941342.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cknaj0beflf78"
-path="res://.godot/imported/UI_Gradient_Button_Large_Release_01a3.png-5b4da27a151c71eb094bace9f27f0d5d.ctex"
+path="res://.godot/imported/UI_Gradient_Button_Large_Release_01a3.png-110ab5e79cf94437684d2aa5a8f20926.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/07_Gradient_Theme/Sprites/UI_Gradient_Button_Large_Release_01a3.png"
-dest_files=["res://.godot/imported/UI_Gradient_Button_Large_Release_01a3.png-5b4da27a151c71eb094bace9f27f0d5d.ctex"]
+source_file="res://art/ui/07_Gradient_Theme/Sprites/UI_Gradient_Button_Large_Release_01a3.png"
+dest_files=["res://.godot/imported/UI_Gradient_Button_Large_Release_01a3.png-110ab5e79cf94437684d2aa5a8f20926.ctex"]
 
 [params]
 

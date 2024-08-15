@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bo3umrbolviau"
-path="res://.godot/imported/UI_Paper_Cross_Standard.png-300fe207bc5d6d11ee9e9c908a3154e7.ctex"
+path="res://.godot/imported/UI_Paper_Cross_Standard.png-96d5bcaa6c0f8def0e94bd0dbcb64b6e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/02_Paper_Theme/Sprites/UI_Paper_Cross_Standard.png"
-dest_files=["res://.godot/imported/UI_Paper_Cross_Standard.png-300fe207bc5d6d11ee9e9c908a3154e7.ctex"]
+source_file="res://art/ui/02_Paper_Theme/Sprites/UI_Paper_Cross_Standard.png"
+dest_files=["res://.godot/imported/UI_Paper_Cross_Standard.png-96d5bcaa6c0f8def0e94bd0dbcb64b6e.ctex"]
 
 [params]
 

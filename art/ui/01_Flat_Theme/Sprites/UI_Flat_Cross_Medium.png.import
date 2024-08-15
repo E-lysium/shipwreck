@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://mjtctpouxfax"
-path="res://.godot/imported/UI_Flat_Cross_Medium.png-a44bb5cec7ba6fa5362d4ea39e895671.ctex"
+path="res://.godot/imported/UI_Flat_Cross_Medium.png-7a47c137b94a03f9ac2c6b3bb103d66a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/01_Flat_Theme/Sprites/UI_Flat_Cross_Medium.png"
-dest_files=["res://.godot/imported/UI_Flat_Cross_Medium.png-a44bb5cec7ba6fa5362d4ea39e895671.ctex"]
+source_file="res://art/ui/01_Flat_Theme/Sprites/UI_Flat_Cross_Medium.png"
+dest_files=["res://.godot/imported/UI_Flat_Cross_Medium.png-7a47c137b94a03f9ac2c6b3bb103d66a.ctex"]
 
 [params]
 

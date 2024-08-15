@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cdliuiptp7ibd"
-path="res://.godot/imported/UI_Paper_Button_Large_Press_01a3.png-530c77a2309fb5168e12444982ba2820.ctex"
+path="res://.godot/imported/UI_Paper_Button_Large_Press_01a3.png-d1f2f86c24087e9a004a4a4d4334619a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/02_Paper_Theme/Sprites/UI_Paper_Button_Large_Press_01a3.png"
-dest_files=["res://.godot/imported/UI_Paper_Button_Large_Press_01a3.png-530c77a2309fb5168e12444982ba2820.ctex"]
+source_file="res://art/ui/02_Paper_Theme/Sprites/UI_Paper_Button_Large_Press_01a3.png"
+dest_files=["res://.godot/imported/UI_Paper_Button_Large_Press_01a3.png-d1f2f86c24087e9a004a4a4d4334619a.ctex"]
 
 [params]
 

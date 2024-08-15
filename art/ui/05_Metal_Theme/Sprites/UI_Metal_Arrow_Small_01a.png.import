@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://f2gcg080htqh"
-path="res://.godot/imported/UI_Metal_Arrow_Small_01a.png-9406353fa923461c82c7be48af04f7d8.ctex"
+path="res://.godot/imported/UI_Metal_Arrow_Small_01a.png-a8072a5ae85bd29a31d8dbe0ea357589.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/05_Metal_Theme/Sprites/UI_Metal_Arrow_Small_01a.png"
-dest_files=["res://.godot/imported/UI_Metal_Arrow_Small_01a.png-9406353fa923461c82c7be48af04f7d8.ctex"]
+source_file="res://art/ui/05_Metal_Theme/Sprites/UI_Metal_Arrow_Small_01a.png"
+dest_files=["res://.godot/imported/UI_Metal_Arrow_Small_01a.png-a8072a5ae85bd29a31d8dbe0ea357589.ctex"]
 
 [params]
 

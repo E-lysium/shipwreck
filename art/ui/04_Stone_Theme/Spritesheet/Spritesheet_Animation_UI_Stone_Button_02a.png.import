@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cugugctxb6lhp"
-path="res://.godot/imported/Spritesheet_Animation_UI_Stone_Button_02a.png-024a43b99f20e9dadf836f033825c614.ctex"
+path="res://.godot/imported/Spritesheet_Animation_UI_Stone_Button_02a.png-46a0db984b83aa4c953a425f7e5ddb81.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/04_Stone_Theme/Spritesheet/Spritesheet_Animation_UI_Stone_Button_02a.png"
-dest_files=["res://.godot/imported/Spritesheet_Animation_UI_Stone_Button_02a.png-024a43b99f20e9dadf836f033825c614.ctex"]
+source_file="res://art/ui/04_Stone_Theme/Spritesheet/Spritesheet_Animation_UI_Stone_Button_02a.png"
+dest_files=["res://.godot/imported/Spritesheet_Animation_UI_Stone_Button_02a.png-46a0db984b83aa4c953a425f7e5ddb81.ctex"]
 
 [params]
 

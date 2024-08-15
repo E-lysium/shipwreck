@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ba4c2abbuuohm"
-path="res://.godot/imported/UI_Metalworks_BarKnob01a.png-acd5462a8fa459166e616b4ccdf6de8a.ctex"
+path="res://.godot/imported/UI_Metalworks_BarKnob01a.png-6f2cc9b96bc28e317215c7b5b35cbc6d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/12_Metalworks_Theme/Sprites/UI_Metalworks_BarKnob01a.png"
-dest_files=["res://.godot/imported/UI_Metalworks_BarKnob01a.png-acd5462a8fa459166e616b4ccdf6de8a.ctex"]
+source_file="res://art/ui/12_Metalworks_Theme/Sprites/UI_Metalworks_BarKnob01a.png"
+dest_files=["res://.godot/imported/UI_Metalworks_BarKnob01a.png-6f2cc9b96bc28e317215c7b5b35cbc6d.ctex"]
 
 [params]
 

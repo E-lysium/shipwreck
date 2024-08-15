@@ -13,6 +13,14 @@ var attack_in_progress = false
 
 func _ready():
 	$AnimatedSprite2D.play("front_idle")
+	
+	# camera functionality
+	var tilemap_rect = get_parent().get_node("TileMap").get_used_rect() 
+	var tilemap_cell_size = get_parent().get_node("TileMap").tile_set.tile_size 
+	$Camera2D.limit_left = tilemap_rect.position.x * tilemap_cell_size.x
+	$Camera2D.limit_right = tilemap_rect.end.x * tilemap_cell_size.x
+	$Camera2D.limit_bottom = tilemap_rect.end.y * tilemap_cell_size.y
+	$Camera2D.limit_top = tilemap_rect.position.y * tilemap_cell_size.y
 
 
 # player functionality

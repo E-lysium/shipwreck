@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://djluhcpt7fxjw"
-path="res://.godot/imported/UI_Stone_Dropdown_Handle_01b.png-daa266883c7b97d8547417598d646c59.ctex"
+path="res://.godot/imported/UI_Stone_Dropdown_Handle_01b.png-9060c0a660c033d5a8747b3990d8d99b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/04_Stone_Theme/Sprites/UI_Stone_Dropdown_Handle_01b.png"
-dest_files=["res://.godot/imported/UI_Stone_Dropdown_Handle_01b.png-daa266883c7b97d8547417598d646c59.ctex"]
+source_file="res://art/ui/04_Stone_Theme/Sprites/UI_Stone_Dropdown_Handle_01b.png"
+dest_files=["res://.godot/imported/UI_Stone_Dropdown_Handle_01b.png-9060c0a660c033d5a8747b3990d8d99b.ctex"]
 
 [params]
 

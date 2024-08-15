@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dctb742pafeos"
-path="res://.godot/imported/Spritesheet_Animation_UI_Pumpkin_Button.png-643199fd3649b2e9fa0cef2043351c5f.ctex"
+path="res://.godot/imported/Spritesheet_Animation_UI_Pumpkin_Button.png-b97149bf6cce6308148189c2e97a860d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/09_Pumpkin_Theme/Spritesheet/Spritesheet_Animation_UI_Pumpkin_Button.png"
-dest_files=["res://.godot/imported/Spritesheet_Animation_UI_Pumpkin_Button.png-643199fd3649b2e9fa0cef2043351c5f.ctex"]
+source_file="res://art/ui/09_Pumpkin_Theme/Spritesheet/Spritesheet_Animation_UI_Pumpkin_Button.png"
+dest_files=["res://.godot/imported/Spritesheet_Animation_UI_Pumpkin_Button.png-b97149bf6cce6308148189c2e97a860d.ctex"]
 
 [params]
 

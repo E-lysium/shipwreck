@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://beq2vu2k74ygl"
-path="res://.godot/imported/UI_Stone_Checkmark_Small_01a.png-61a723e35414c3949f30eae488c8364e.ctex"
+path="res://.godot/imported/UI_Stone_Checkmark_Small_01a.png-dc1883b0967b1e891ca52ce005e2e54a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/04_Stone_Theme/Sprites/UI_Stone_Checkmark_Small_01a.png"
-dest_files=["res://.godot/imported/UI_Stone_Checkmark_Small_01a.png-61a723e35414c3949f30eae488c8364e.ctex"]
+source_file="res://art/ui/04_Stone_Theme/Sprites/UI_Stone_Checkmark_Small_01a.png"
+dest_files=["res://.godot/imported/UI_Stone_Checkmark_Small_01a.png-dc1883b0967b1e891ca52ce005e2e54a.ctex"]
 
 [params]
 

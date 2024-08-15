@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://btkennh4a7bwm"
-path="res://.godot/imported/UI_Flat_Button_Medium_Lock_01a1.png-0619f7d82fbd6c40e9fbc1dffbf29fbf.ctex"
+path="res://.godot/imported/UI_Flat_Button_Medium_Lock_01a1.png-7d46f12ea79ac416e0f47e34e1b30eef.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/01_Flat_Theme/Sprites/UI_Flat_Button_Medium_Lock_01a1.png"
-dest_files=["res://.godot/imported/UI_Flat_Button_Medium_Lock_01a1.png-0619f7d82fbd6c40e9fbc1dffbf29fbf.ctex"]
+source_file="res://art/ui/01_Flat_Theme/Sprites/UI_Flat_Button_Medium_Lock_01a1.png"
+dest_files=["res://.godot/imported/UI_Flat_Button_Medium_Lock_01a1.png-7d46f12ea79ac416e0f47e34e1b30eef.ctex"]
 
 [params]
 

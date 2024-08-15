@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://y3ase76saebp"
-path="res://.godot/imported/UI_MysticWood_Frame_Rectangle_01a.png-a222f5658eb176e3de12263d240ae94e.ctex"
+path="res://.godot/imported/UI_MysticWood_Frame_Rectangle_01a.png-471827b8f4370d822ae4da3190daaa89.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/10_MysticWood_Theme/Sprites/UI_MysticWood_Frame_Rectangle_01a.png"
-dest_files=["res://.godot/imported/UI_MysticWood_Frame_Rectangle_01a.png-a222f5658eb176e3de12263d240ae94e.ctex"]
+source_file="res://art/ui/10_MysticWood_Theme/Sprites/UI_MysticWood_Frame_Rectangle_01a.png"
+dest_files=["res://.godot/imported/UI_MysticWood_Frame_Rectangle_01a.png-471827b8f4370d822ae4da3190daaa89.ctex"]
 
 [params]
 

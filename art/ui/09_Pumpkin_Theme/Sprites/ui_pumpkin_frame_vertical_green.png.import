@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://gvdoy873ldy3"
-path="res://.godot/imported/ui_pumpkin_frame_vertical_green.png-2e6d76173a91be14966147823da1e3ad.ctex"
+path="res://.godot/imported/ui_pumpkin_frame_vertical_green.png-05fd6c1460f91107032ace2dd7804d22.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/09_Pumpkin_Theme/Sprites/ui_pumpkin_frame_vertical_green.png"
-dest_files=["res://.godot/imported/ui_pumpkin_frame_vertical_green.png-2e6d76173a91be14966147823da1e3ad.ctex"]
+source_file="res://art/ui/09_Pumpkin_Theme/Sprites/ui_pumpkin_frame_vertical_green.png"
+dest_files=["res://.godot/imported/ui_pumpkin_frame_vertical_green.png-05fd6c1460f91107032ace2dd7804d22.ctex"]
 
 [params]
 

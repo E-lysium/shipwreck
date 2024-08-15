@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ijkuunq2lkco"
-path="res://.godot/imported/UI_Stone_Scrollbar_Handle_02a.png-b603300f9be508d5cdcbd32de7240c71.ctex"
+path="res://.godot/imported/UI_Stone_Scrollbar_Handle_02a.png-3ba07e5987b5e32d3dba17865693fa73.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/04_Stone_Theme/Sprites/UI_Stone_Scrollbar_Handle_02a.png"
-dest_files=["res://.godot/imported/UI_Stone_Scrollbar_Handle_02a.png-b603300f9be508d5cdcbd32de7240c71.ctex"]
+source_file="res://art/ui/04_Stone_Theme/Sprites/UI_Stone_Scrollbar_Handle_02a.png"
+dest_files=["res://.godot/imported/UI_Stone_Scrollbar_Handle_02a.png-3ba07e5987b5e32d3dba17865693fa73.ctex"]
 
 [params]
 
