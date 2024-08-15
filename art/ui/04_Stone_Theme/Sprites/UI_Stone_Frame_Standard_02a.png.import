@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bnoqktcdp1iq"
-path="res://.godot/imported/UI_Stone_Frame_Standard_02a.png-9edc77ba38e8d015994bfacd8e288098.ctex"
+path="res://.godot/imported/UI_Stone_Frame_Standard_02a.png-c414c0f630d9f6fa7288ae0043bec95a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/04_Stone_Theme/Sprites/UI_Stone_Frame_Standard_02a.png"
-dest_files=["res://.godot/imported/UI_Stone_Frame_Standard_02a.png-9edc77ba38e8d015994bfacd8e288098.ctex"]
+source_file="res://art/ui/04_Stone_Theme/Sprites/UI_Stone_Frame_Standard_02a.png"
+dest_files=["res://.godot/imported/UI_Stone_Frame_Standard_02a.png-c414c0f630d9f6fa7288ae0043bec95a.ctex"]
 
 [params]
 

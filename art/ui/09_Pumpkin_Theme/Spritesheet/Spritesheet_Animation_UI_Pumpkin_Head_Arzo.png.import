@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://mcm4hrvx6ftr"
-path="res://.godot/imported/Spritesheet_Animation_UI_Pumpkin_Head_Arzo.png-8a40a7538d0f7f73eec41e951630b1b8.ctex"
+path="res://.godot/imported/Spritesheet_Animation_UI_Pumpkin_Head_Arzo.png-1e276e3142821889c956896c3c08db2b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/09_Pumpkin_Theme/Spritesheet/Spritesheet_Animation_UI_Pumpkin_Head_Arzo.png"
-dest_files=["res://.godot/imported/Spritesheet_Animation_UI_Pumpkin_Head_Arzo.png-8a40a7538d0f7f73eec41e951630b1b8.ctex"]
+source_file="res://art/ui/09_Pumpkin_Theme/Spritesheet/Spritesheet_Animation_UI_Pumpkin_Head_Arzo.png"
+dest_files=["res://.godot/imported/Spritesheet_Animation_UI_Pumpkin_Head_Arzo.png-1e276e3142821889c956896c3c08db2b.ctex"]
 
 [params]
 

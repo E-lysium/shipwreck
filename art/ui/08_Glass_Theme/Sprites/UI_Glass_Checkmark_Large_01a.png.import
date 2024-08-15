@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://lhrsdlx1aqnr"
-path="res://.godot/imported/UI_Glass_Checkmark_Large_01a.png-2cd642af36f102066921ae9962da198d.ctex"
+path="res://.godot/imported/UI_Glass_Checkmark_Large_01a.png-28030c638728899544bc3cdd28ed71db.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/08_Glass_Theme/Sprites/UI_Glass_Checkmark_Large_01a.png"
-dest_files=["res://.godot/imported/UI_Glass_Checkmark_Large_01a.png-2cd642af36f102066921ae9962da198d.ctex"]
+source_file="res://art/ui/08_Glass_Theme/Sprites/UI_Glass_Checkmark_Large_01a.png"
+dest_files=["res://.godot/imported/UI_Glass_Checkmark_Large_01a.png-28030c638728899544bc3cdd28ed71db.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dmxlrps23g6k"
-path="res://.godot/imported/UI_Stone_Fillbar_Hollow_01b.png-676e27e4c1520456bb8da10ae28c0e54.ctex"
+path="res://.godot/imported/UI_Stone_Fillbar_Hollow_01b.png-8d9271773206b93568453c638dddb85e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/04_Stone_Theme/Sprites/UI_Stone_Fillbar_Hollow_01b.png"
-dest_files=["res://.godot/imported/UI_Stone_Fillbar_Hollow_01b.png-676e27e4c1520456bb8da10ae28c0e54.ctex"]
+source_file="res://art/ui/04_Stone_Theme/Sprites/UI_Stone_Fillbar_Hollow_01b.png"
+dest_files=["res://.godot/imported/UI_Stone_Fillbar_Hollow_01b.png-8d9271773206b93568453c638dddb85e.ctex"]
 
 [params]
 

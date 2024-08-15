@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dod0vgrwobt4e"
-path="res://.godot/imported/UI_Wood_Fillbar_Block_01.png-212760e2946bb53f1aa71f0ecc194e91.ctex"
+path="res://.godot/imported/UI_Wood_Fillbar_Block_01.png-4a935cee70e45b5d5d6da675ba0f0258.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/03_Wood_Theme/Sprites/UI_Wood_Fillbar_Block_01.png"
-dest_files=["res://.godot/imported/UI_Wood_Fillbar_Block_01.png-212760e2946bb53f1aa71f0ecc194e91.ctex"]
+source_file="res://art/ui/03_Wood_Theme/Sprites/UI_Wood_Fillbar_Block_01.png"
+dest_files=["res://.godot/imported/UI_Wood_Fillbar_Block_01.png-4a935cee70e45b5d5d6da675ba0f0258.ctex"]
 
 [params]
 

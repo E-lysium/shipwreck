@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bjvxolgntmrdl"
-path="res://.godot/imported/ui_pumpkin_icon_checkmark2.png-427f3553f69c3ebae7bf57e5aba00e1e.ctex"
+path="res://.godot/imported/ui_pumpkin_icon_checkmark2.png-0ff0be86c56d7ec0274f0b87091044c0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/09_Pumpkin_Theme/Sprites/ui_pumpkin_icon_checkmark2.png"
-dest_files=["res://.godot/imported/ui_pumpkin_icon_checkmark2.png-427f3553f69c3ebae7bf57e5aba00e1e.ctex"]
+source_file="res://art/ui/09_Pumpkin_Theme/Sprites/ui_pumpkin_icon_checkmark2.png"
+dest_files=["res://.godot/imported/ui_pumpkin_icon_checkmark2.png-0ff0be86c56d7ec0274f0b87091044c0.ctex"]
 
 [params]
 

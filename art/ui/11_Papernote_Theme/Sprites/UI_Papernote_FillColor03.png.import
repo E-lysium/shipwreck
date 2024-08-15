@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://fnvuukbnp3pf"
-path="res://.godot/imported/UI_Papernote_FillColor03.png-0c36bd7653443d9fbeefcaed69c2d846.ctex"
+path="res://.godot/imported/UI_Papernote_FillColor03.png-950c1daee16bb59e909502b34a136f1c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/11_Papernote_Theme/Sprites/UI_Papernote_FillColor03.png"
-dest_files=["res://.godot/imported/UI_Papernote_FillColor03.png-0c36bd7653443d9fbeefcaed69c2d846.ctex"]
+source_file="res://art/ui/11_Papernote_Theme/Sprites/UI_Papernote_FillColor03.png"
+dest_files=["res://.godot/imported/UI_Papernote_FillColor03.png-950c1daee16bb59e909502b34a136f1c.ctex"]
 
 [params]
 

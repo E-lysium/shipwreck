@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cjrsrwdghh6vm"
-path="res://.godot/imported/UI_Flat_Banner_02_Downward.png-dc7c66753fe65c67500779ae58b01f3f.ctex"
+path="res://.godot/imported/UI_Flat_Banner_02_Downward.png-213fd580911168eed16ba3ed45426a0b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/01_Flat_Theme/Sprites/UI_Flat_Banner_02_Downward.png"
-dest_files=["res://.godot/imported/UI_Flat_Banner_02_Downward.png-dc7c66753fe65c67500779ae58b01f3f.ctex"]
+source_file="res://art/ui/01_Flat_Theme/Sprites/UI_Flat_Banner_02_Downward.png"
+dest_files=["res://.godot/imported/UI_Flat_Banner_02_Downward.png-213fd580911168eed16ba3ed45426a0b.ctex"]
 
 [params]
 

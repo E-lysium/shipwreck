@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dsqrtejblbquf"
-path="res://.godot/imported/Spritesheet_UI_Paper_Animation_Button_01.png-6ca386d7f7a05a0c5f993b56fbab9a0e.ctex"
+path="res://.godot/imported/Spritesheet_UI_Paper_Animation_Button_01.png-62efeb94fb20fcde1a1a648a89761906.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/02_Paper_Theme/Spritesheets/Spritesheet_UI_Paper_Animation_Button_01.png"
-dest_files=["res://.godot/imported/Spritesheet_UI_Paper_Animation_Button_01.png-6ca386d7f7a05a0c5f993b56fbab9a0e.ctex"]
+source_file="res://art/ui/02_Paper_Theme/Spritesheets/Spritesheet_UI_Paper_Animation_Button_01.png"
+dest_files=["res://.godot/imported/Spritesheet_UI_Paper_Animation_Button_01.png-62efeb94fb20fcde1a1a648a89761906.ctex"]
 
 [params]
 

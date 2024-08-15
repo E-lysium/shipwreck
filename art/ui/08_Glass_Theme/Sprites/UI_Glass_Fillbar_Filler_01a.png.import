@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://drgt752j1ixwx"
-path="res://.godot/imported/UI_Glass_Fillbar_Filler_01a.png-d49b6f6d21b592a6dcf07b80b690f94b.ctex"
+path="res://.godot/imported/UI_Glass_Fillbar_Filler_01a.png-72af1ecb96832fcc390d632e7d1bdea6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/08_Glass_Theme/Sprites/UI_Glass_Fillbar_Filler_01a.png"
-dest_files=["res://.godot/imported/UI_Glass_Fillbar_Filler_01a.png-d49b6f6d21b592a6dcf07b80b690f94b.ctex"]
+source_file="res://art/ui/08_Glass_Theme/Sprites/UI_Glass_Fillbar_Filler_01a.png"
+dest_files=["res://.godot/imported/UI_Glass_Fillbar_Filler_01a.png-72af1ecb96832fcc390d632e7d1bdea6.ctex"]
 
 [params]
 

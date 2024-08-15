@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dsvw7fdx1gavc"
-path="res://.godot/imported/Spritesheet_Animation_UI_Pumpkin_Head_Bernie.png-77e8abe019e3d7f0fc9830d90ff30f58.ctex"
+path="res://.godot/imported/Spritesheet_Animation_UI_Pumpkin_Head_Bernie.png-b713429e89275642bd851505cefbc570.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/09_Pumpkin_Theme/Spritesheet/Spritesheet_Animation_UI_Pumpkin_Head_Bernie.png"
-dest_files=["res://.godot/imported/Spritesheet_Animation_UI_Pumpkin_Head_Bernie.png-77e8abe019e3d7f0fc9830d90ff30f58.ctex"]
+source_file="res://art/ui/09_Pumpkin_Theme/Spritesheet/Spritesheet_Animation_UI_Pumpkin_Head_Bernie.png"
+dest_files=["res://.godot/imported/Spritesheet_Animation_UI_Pumpkin_Head_Bernie.png-b713429e89275642bd851505cefbc570.ctex"]
 
 [params]
 

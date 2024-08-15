@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dxnn4a36fxb5h"
-path="res://.godot/imported/ui_pumpkin_sprite_cerie1.png-d9b1e8245ccba01adef3b5d47a37f6fa.ctex"
+path="res://.godot/imported/ui_pumpkin_sprite_cerie1.png-f1d3824250d35e653b8a78d07e74b11f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/09_Pumpkin_Theme/Sprites/ui_pumpkin_sprite_cerie1.png"
-dest_files=["res://.godot/imported/ui_pumpkin_sprite_cerie1.png-d9b1e8245ccba01adef3b5d47a37f6fa.ctex"]
+source_file="res://art/ui/09_Pumpkin_Theme/Sprites/ui_pumpkin_sprite_cerie1.png"
+dest_files=["res://.godot/imported/ui_pumpkin_sprite_cerie1.png-f1d3824250d35e653b8a78d07e74b11f.ctex"]
 
 [params]
 

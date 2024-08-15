@@ -6,7 +6,7 @@
 [ext_resource type="Texture2D" uid="uid://ctn2dsxpkoyhj" path="res://art/objects/chest_02.png" id="3_wi2ab"]
 [ext_resource type="Texture2D" uid="uid://j6md731ajgji" path="res://art/objects/boat.png" id="4_kdlwf"]
 [ext_resource type="Texture2D" uid="uid://b285o6awn57rb" path="res://art/tilesets/snow-water-sheet.png" id="5_lu7yw"]
-[ext_resource type="Texture2D" uid="uid://cl36rjdex4n0k" path="res://art/objects/new_boat.png" id="5_u4pur"]
+[ext_resource type="Texture2D" uid="uid://exadu6hpk8xb" path="res://art/objects/new_boat.png" id="5_u4pur"]
 [ext_resource type="Texture2D" uid="uid://bmvprdnqdfh4c" path="res://art/tilesets/water_decorations.png" id="6_7cq1c"]
 [ext_resource type="Texture2D" uid="uid://c4fckne6a6aws" path="res://art/tilesets/water_lillies.png" id="7_r0rj8"]
 [ext_resource type="Texture2D" uid="uid://b87vt42bxtmtk" path="res://art/tilesets/decor_8x8.png" id="8_2tbny"]

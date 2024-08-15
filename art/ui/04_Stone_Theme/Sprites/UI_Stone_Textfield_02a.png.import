@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b3oh16v64avmm"
-path="res://.godot/imported/UI_Stone_Textfield_02a.png-8884789acf27f80ff5a1ae6b443efdeb.ctex"
+path="res://.godot/imported/UI_Stone_Textfield_02a.png-57c59b0b7e4661ce128efe7afbe97e1c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/04_Stone_Theme/Sprites/UI_Stone_Textfield_02a.png"
-dest_files=["res://.godot/imported/UI_Stone_Textfield_02a.png-8884789acf27f80ff5a1ae6b443efdeb.ctex"]
+source_file="res://art/ui/04_Stone_Theme/Sprites/UI_Stone_Textfield_02a.png"
+dest_files=["res://.godot/imported/UI_Stone_Textfield_02a.png-57c59b0b7e4661ce128efe7afbe97e1c.ctex"]
 
 [params]
 

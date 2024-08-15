@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cmosxvymhbk4s"
-path="res://.godot/imported/ui_pumpkin_sprite_arzo13.png-2c60e65c285afc2b5aa487d259d15299.ctex"
+path="res://.godot/imported/ui_pumpkin_sprite_arzo13.png-82f9a0bd2a3f4e214abc88e132da367d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/09_Pumpkin_Theme/Sprites/ui_pumpkin_sprite_arzo13.png"
-dest_files=["res://.godot/imported/ui_pumpkin_sprite_arzo13.png-2c60e65c285afc2b5aa487d259d15299.ctex"]
+source_file="res://art/ui/09_Pumpkin_Theme/Sprites/ui_pumpkin_sprite_arzo13.png"
+dest_files=["res://.godot/imported/ui_pumpkin_sprite_arzo13.png-82f9a0bd2a3f4e214abc88e132da367d.ctex"]
 
 [params]
 

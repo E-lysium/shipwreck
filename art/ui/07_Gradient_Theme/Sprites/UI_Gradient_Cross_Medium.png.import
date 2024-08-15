@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cd2yex68pdqhu"
-path="res://.godot/imported/UI_Gradient_Cross_Medium.png-9af5186de87ce4d06c4624aee322336a.ctex"
+path="res://.godot/imported/UI_Gradient_Cross_Medium.png-37ae8342a60fdb5341b5751c00feabe3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/07_Gradient_Theme/Sprites/UI_Gradient_Cross_Medium.png"
-dest_files=["res://.godot/imported/UI_Gradient_Cross_Medium.png-9af5186de87ce4d06c4624aee322336a.ctex"]
+source_file="res://art/ui/07_Gradient_Theme/Sprites/UI_Gradient_Cross_Medium.png"
+dest_files=["res://.godot/imported/UI_Gradient_Cross_Medium.png-37ae8342a60fdb5341b5751c00feabe3.ctex"]
 
 [params]
 

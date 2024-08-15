@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://w274meystrmb"
-path="res://.godot/imported/UI_Paper_Slider_Bar.png-574ff2db63bf3d5bdc20a755d3b5e22c.ctex"
+path="res://.godot/imported/UI_Paper_Slider_Bar.png-412518a2c94e2ec8924abb7dd27f78a2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/02_Paper_Theme/Sprites/UI_Paper_Slider_Bar.png"
-dest_files=["res://.godot/imported/UI_Paper_Slider_Bar.png-574ff2db63bf3d5bdc20a755d3b5e22c.ctex"]
+source_file="res://art/ui/02_Paper_Theme/Sprites/UI_Paper_Slider_Bar.png"
+dest_files=["res://.godot/imported/UI_Paper_Slider_Bar.png-412518a2c94e2ec8924abb7dd27f78a2.ctex"]
 
 [params]
 

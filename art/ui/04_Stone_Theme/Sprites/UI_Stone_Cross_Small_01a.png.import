@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ctyqvcwobv5c4"
-path="res://.godot/imported/UI_Stone_Cross_Small_01a.png-25a359e4f81e894c4c513702d184b3da.ctex"
+path="res://.godot/imported/UI_Stone_Cross_Small_01a.png-4808b7d7f101173dee523c77721921e1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/04_Stone_Theme/Sprites/UI_Stone_Cross_Small_01a.png"
-dest_files=["res://.godot/imported/UI_Stone_Cross_Small_01a.png-25a359e4f81e894c4c513702d184b3da.ctex"]
+source_file="res://art/ui/04_Stone_Theme/Sprites/UI_Stone_Cross_Small_01a.png"
+dest_files=["res://.godot/imported/UI_Stone_Cross_Small_01a.png-4808b7d7f101173dee523c77721921e1.ctex"]
 
 [params]
 

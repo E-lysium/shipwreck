@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bxb1e1bhvg05"
-path="res://.godot/imported/UI_MysticWood_Select_01a2.png-e447f0389fb4dab9b3a2e51b8f8dbb2a.ctex"
+path="res://.godot/imported/UI_MysticWood_Select_01a2.png-e79a397e15a8000599a9b3adb940ff11.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/10_MysticWood_Theme/Sprites/UI_MysticWood_Select_01a2.png"
-dest_files=["res://.godot/imported/UI_MysticWood_Select_01a2.png-e447f0389fb4dab9b3a2e51b8f8dbb2a.ctex"]
+source_file="res://art/ui/10_MysticWood_Theme/Sprites/UI_MysticWood_Select_01a2.png"
+dest_files=["res://.godot/imported/UI_MysticWood_Select_01a2.png-e79a397e15a8000599a9b3adb940ff11.ctex"]
 
 [params]
 

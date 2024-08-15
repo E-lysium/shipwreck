@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://gjlijgkpp7lb"
-path="res://.godot/imported/UI_Wood_Cross_Medium.png-a57d030267201c3d544692a14b5adb12.ctex"
+path="res://.godot/imported/UI_Wood_Cross_Medium.png-d456f49bf946cea0a6171265ec9df349.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/03_Wood_Theme/Sprites/UI_Wood_Cross_Medium.png"
-dest_files=["res://.godot/imported/UI_Wood_Cross_Medium.png-a57d030267201c3d544692a14b5adb12.ctex"]
+source_file="res://art/ui/03_Wood_Theme/Sprites/UI_Wood_Cross_Medium.png"
+dest_files=["res://.godot/imported/UI_Wood_Cross_Medium.png-d456f49bf946cea0a6171265ec9df349.ctex"]
 
 [params]
 

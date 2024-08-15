@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bfdykkvq51noy"
-path="res://.godot/imported/UI_Wood_Banner_Downward_01.png-f84ee9951b757733c611a497d2587c34.ctex"
+path="res://.godot/imported/UI_Wood_Banner_Downward_01.png-f929d6bd4bc5fcf6d49faa3a7441a823.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/03_Wood_Theme/Sprites/UI_Wood_Banner_Downward_01.png"
-dest_files=["res://.godot/imported/UI_Wood_Banner_Downward_01.png-f84ee9951b757733c611a497d2587c34.ctex"]
+source_file="res://art/ui/03_Wood_Theme/Sprites/UI_Wood_Banner_Downward_01.png"
+dest_files=["res://.godot/imported/UI_Wood_Banner_Downward_01.png-f929d6bd4bc5fcf6d49faa3a7441a823.ctex"]
 
 [params]
 

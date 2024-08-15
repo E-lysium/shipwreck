@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://ic4fwafaoqx2"
-path="res://.godot/imported/Toriko.ttf-14d14ed522cc3bfb004a1242bbce89bf.fontdata"
+path="res://.godot/imported/Toriko.ttf-f1799330b0a2c98d0a28fe75618609ed.fontdata"
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/Font/TTF (16px)/Toriko.ttf"
-dest_files=["res://.godot/imported/Toriko.ttf-14d14ed522cc3bfb004a1242bbce89bf.fontdata"]
+source_file="res://art/ui/Font/TTF (16px)/Toriko.ttf"
+dest_files=["res://.godot/imported/Toriko.ttf-f1799330b0a2c98d0a28fe75618609ed.fontdata"]
 
 [params]
 

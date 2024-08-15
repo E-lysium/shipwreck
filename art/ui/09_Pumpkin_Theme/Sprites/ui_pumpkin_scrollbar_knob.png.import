@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bybiihcvknuht"
-path="res://.godot/imported/ui_pumpkin_scrollbar_knob.png-7070a3649378da115c58dcf46b512b1d.ctex"
+path="res://.godot/imported/ui_pumpkin_scrollbar_knob.png-c92d16a077c90823038b18cfffa0799d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/09_Pumpkin_Theme/Sprites/ui_pumpkin_scrollbar_knob.png"
-dest_files=["res://.godot/imported/ui_pumpkin_scrollbar_knob.png-7070a3649378da115c58dcf46b512b1d.ctex"]
+source_file="res://art/ui/09_Pumpkin_Theme/Sprites/ui_pumpkin_scrollbar_knob.png"
+dest_files=["res://.godot/imported/ui_pumpkin_scrollbar_knob.png-c92d16a077c90823038b18cfffa0799d.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c2k63bqdp1gsf"
-path="res://.godot/imported/UI_Stone_Arrow_Small_01a.png-12e4ed10b8b4698186a8b2e49b44a412.ctex"
+path="res://.godot/imported/UI_Stone_Arrow_Small_01a.png-f6a3011ae708bb2a1a0453a96606dbbf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/04_Stone_Theme/Sprites/UI_Stone_Arrow_Small_01a.png"
-dest_files=["res://.godot/imported/UI_Stone_Arrow_Small_01a.png-12e4ed10b8b4698186a8b2e49b44a412.ctex"]
+source_file="res://art/ui/04_Stone_Theme/Sprites/UI_Stone_Arrow_Small_01a.png"
+dest_files=["res://.godot/imported/UI_Stone_Arrow_Small_01a.png-f6a3011ae708bb2a1a0453a96606dbbf.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dv70go0hsudkk"
-path="res://.godot/imported/UI_Papernote_Hourglass01_1.png-7be23dcbf3d54ca4a3a7047e88d74fe9.ctex"
+path="res://.godot/imported/UI_Papernote_Hourglass01_1.png-c9c3080d5c3c8cbabcb576a547900586.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/11_Papernote_Theme/Animation/UI_Papernote_Hourglass01_1.png"
-dest_files=["res://.godot/imported/UI_Papernote_Hourglass01_1.png-7be23dcbf3d54ca4a3a7047e88d74fe9.ctex"]
+source_file="res://art/ui/11_Papernote_Theme/Animation/UI_Papernote_Hourglass01_1.png"
+dest_files=["res://.godot/imported/UI_Papernote_Hourglass01_1.png-c9c3080d5c3c8cbabcb576a547900586.ctex"]
 
 [params]
 

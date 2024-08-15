@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d0xwwngyjm13s"
-path="res://.godot/imported/UI_Glass_Minus_Medium_01a.png-2168c4918e2f62ce5808dd4d9bceaf5c.ctex"
+path="res://.godot/imported/UI_Glass_Minus_Medium_01a.png-0558d85a9b0fe6f7b4b876b7781466dd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/08_Glass_Theme/Sprites/UI_Glass_Minus_Medium_01a.png"
-dest_files=["res://.godot/imported/UI_Glass_Minus_Medium_01a.png-2168c4918e2f62ce5808dd4d9bceaf5c.ctex"]
+source_file="res://art/ui/08_Glass_Theme/Sprites/UI_Glass_Minus_Medium_01a.png"
+dest_files=["res://.godot/imported/UI_Glass_Minus_Medium_01a.png-0558d85a9b0fe6f7b4b876b7781466dd.ctex"]
 
 [params]
 

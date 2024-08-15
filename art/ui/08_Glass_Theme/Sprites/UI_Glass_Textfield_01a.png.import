@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://i63k0jv1pn7x"
-path="res://.godot/imported/UI_Glass_Textfield_01a.png-a8c3ac7b00524b816c8f5dfac969b3df.ctex"
+path="res://.godot/imported/UI_Glass_Textfield_01a.png-29ed945f6a7bcca5dad03284a693d842.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/08_Glass_Theme/Sprites/UI_Glass_Textfield_01a.png"
-dest_files=["res://.godot/imported/UI_Glass_Textfield_01a.png-a8c3ac7b00524b816c8f5dfac969b3df.ctex"]
+source_file="res://art/ui/08_Glass_Theme/Sprites/UI_Glass_Textfield_01a.png"
+dest_files=["res://.godot/imported/UI_Glass_Textfield_01a.png-29ed945f6a7bcca5dad03284a693d842.ctex"]
 
 [params]
 

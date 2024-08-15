@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://desk1jntg4v3y"
-path="res://.godot/imported/UI_Metal_Fillbar_02a.png-d94e99a1e27439ed1bc23655f5766594.ctex"
+path="res://.godot/imported/UI_Metal_Fillbar_02a.png-49195be780055b84f44a3b70ee314570.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/05_Metal_Theme/Sprites/UI_Metal_Fillbar_02a.png"
-dest_files=["res://.godot/imported/UI_Metal_Fillbar_02a.png-d94e99a1e27439ed1bc23655f5766594.ctex"]
+source_file="res://art/ui/05_Metal_Theme/Sprites/UI_Metal_Fillbar_02a.png"
+dest_files=["res://.godot/imported/UI_Metal_Fillbar_02a.png-49195be780055b84f44a3b70ee314570.ctex"]
 
 [params]
 

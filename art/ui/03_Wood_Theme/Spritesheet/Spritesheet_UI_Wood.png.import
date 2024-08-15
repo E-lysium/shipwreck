@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dqguccfqftouq"
-path="res://.godot/imported/Spritesheet_UI_Wood.png-2477f1c6a7991e7235b5ddeea74c8430.ctex"
+path="res://.godot/imported/Spritesheet_UI_Wood.png-dd09fd6f99659b745f107096c90aaa3a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/03_Wood_Theme/Spritesheet/Spritesheet_UI_Wood.png"
-dest_files=["res://.godot/imported/Spritesheet_UI_Wood.png-2477f1c6a7991e7235b5ddeea74c8430.ctex"]
+source_file="res://art/ui/03_Wood_Theme/Spritesheet/Spritesheet_UI_Wood.png"
+dest_files=["res://.godot/imported/Spritesheet_UI_Wood.png-dd09fd6f99659b745f107096c90aaa3a.ctex"]
 
 [params]
 

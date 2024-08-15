@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cwaha2gfl0iog"
-path="res://.godot/imported/UI_Metalworks_IconConfirm02a.png-30c1c07f7549fc7b6d93900a291b7516.ctex"
+path="res://.godot/imported/UI_Metalworks_IconConfirm02a.png-041059b2e3df7bb55ccd980fc9038d4c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/12_Metalworks_Theme/Sprites/UI_Metalworks_IconConfirm02a.png"
-dest_files=["res://.godot/imported/UI_Metalworks_IconConfirm02a.png-30c1c07f7549fc7b6d93900a291b7516.ctex"]
+source_file="res://art/ui/12_Metalworks_Theme/Sprites/UI_Metalworks_IconConfirm02a.png"
+dest_files=["res://.godot/imported/UI_Metalworks_IconConfirm02a.png-041059b2e3df7bb55ccd980fc9038d4c.ctex"]
 
 [params]
 

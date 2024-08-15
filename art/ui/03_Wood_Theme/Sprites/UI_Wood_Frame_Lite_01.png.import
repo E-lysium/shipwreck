@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://13gwj7af8yri"
-path="res://.godot/imported/UI_Wood_Frame_Lite_01.png-9de2ef7762d81a539cc59e563c74ab45.ctex"
+path="res://.godot/imported/UI_Wood_Frame_Lite_01.png-17fd4875498e9004dded4aa9e772c40b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/03_Wood_Theme/Sprites/UI_Wood_Frame_Lite_01.png"
-dest_files=["res://.godot/imported/UI_Wood_Frame_Lite_01.png-9de2ef7762d81a539cc59e563c74ab45.ctex"]
+source_file="res://art/ui/03_Wood_Theme/Sprites/UI_Wood_Frame_Lite_01.png"
+dest_files=["res://.godot/imported/UI_Wood_Frame_Lite_01.png-17fd4875498e9004dded4aa9e772c40b.ctex"]
 
 [params]
 

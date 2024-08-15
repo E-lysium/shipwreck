@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bul6i16kw8efe"
-path="res://.godot/imported/UI_Stone_Button_Large_Lock_01a4.png-6b84f1b666934f9280d0cd3d74319b7d.ctex"
+path="res://.godot/imported/UI_Stone_Button_Large_Lock_01a4.png-24f6c9ea419899c891ca2a0f419c1820.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/ui/Complete_UI_Essential_Pack/Complete_UI_Essential_Pack_v2.3/04_Stone_Theme/Sprites/UI_Stone_Button_Large_Lock_01a4.png"
-dest_files=["res://.godot/imported/UI_Stone_Button_Large_Lock_01a4.png-6b84f1b666934f9280d0cd3d74319b7d.ctex"]
+source_file="res://art/ui/04_Stone_Theme/Sprites/UI_Stone_Button_Large_Lock_01a4.png"
+dest_files=["res://.godot/imported/UI_Stone_Button_Large_Lock_01a4.png-24f6c9ea419899c891ca2a0f419c1820.ctex"]
 
 [params]
 
