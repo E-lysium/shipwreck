@@ -1,4 +1,4 @@
-[gd_resource type="TileSet" load_steps=25 format=3 uid="uid://cd3tuywgvh1pj"]
+[gd_resource type="TileSet" load_steps=27 format=3 uid="uid://cd3tuywgvh1pj"]
 
 [ext_resource type="Texture2D" uid="uid://bj1a1umq8f030" path="res://art/tilesets/snow.png" id="1_u5qub"]
 [ext_resource type="Texture2D" uid="uid://wotwbrxr3e31" path="res://art/tilesets/snow-plains.png" id="2_nwgxs"]
@@ -6,6 +6,7 @@
 [ext_resource type="Texture2D" uid="uid://ctn2dsxpkoyhj" path="res://art/objects/chest_02.png" id="3_wi2ab"]
 [ext_resource type="Texture2D" uid="uid://j6md731ajgji" path="res://art/objects/boat.png" id="4_kdlwf"]
 [ext_resource type="Texture2D" uid="uid://b285o6awn57rb" path="res://art/tilesets/snow-water-sheet.png" id="5_lu7yw"]
+[ext_resource type="Texture2D" uid="uid://cl36rjdex4n0k" path="res://art/objects/new_boat.png" id="5_u4pur"]
 [ext_resource type="Texture2D" uid="uid://bmvprdnqdfh4c" path="res://art/tilesets/water_decorations.png" id="6_7cq1c"]
 [ext_resource type="Texture2D" uid="uid://c4fckne6a6aws" path="res://art/tilesets/water_lillies.png" id="7_r0rj8"]
 [ext_resource type="Texture2D" uid="uid://b87vt42bxtmtk" path="res://art/tilesets/decor_8x8.png" id="8_2tbny"]
@@ -342,6 +343,141 @@ texture = ExtResource("4_kdlwf")
 6:8/0 = 0
 6:8/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 6:8/0/physics_layer_0/angular_velocity = 0.0
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_gccj4"]
+texture = ExtResource("5_u4pur")
+2:0/animation_columns = 6
+2:0/animation_separation = Vector2i(4, 0)
+2:0/animation_frame_0/duration = 1.0
+2:0/animation_frame_1/duration = 1.0
+2:0/animation_frame_2/duration = 1.0
+2:0/animation_frame_3/duration = 1.0
+2:0/animation_frame_4/duration = 1.0
+2:0/animation_frame_5/duration = 1.0
+2:0/0 = 0
+2:0/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+2:0/0/physics_layer_0/angular_velocity = 0.0
+3:0/animation_columns = 6
+3:0/animation_separation = Vector2i(4, 0)
+3:0/animation_frame_0/duration = 1.0
+3:0/animation_frame_1/duration = 1.0
+3:0/animation_frame_2/duration = 1.0
+3:0/animation_frame_3/duration = 1.0
+3:0/animation_frame_4/duration = 1.0
+3:0/animation_frame_5/duration = 1.0
+3:0/0 = 0
+3:0/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+3:0/0/physics_layer_0/angular_velocity = 0.0
+0:1/animation_columns = 6
+0:1/animation_separation = Vector2i(4, 0)
+0:1/animation_frame_0/duration = 1.0
+0:1/animation_frame_1/duration = 1.0
+0:1/animation_frame_2/duration = 1.0
+0:1/animation_frame_3/duration = 1.0
+0:1/animation_frame_4/duration = 1.0
+0:1/animation_frame_5/duration = 1.0
+0:1/0 = 0
+0:1/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+0:1/0/physics_layer_0/angular_velocity = 0.0
+1:1/animation_columns = 6
+1:1/animation_separation = Vector2i(4, 0)
+1:1/animation_frame_0/duration = 1.0
+1:1/animation_frame_1/duration = 1.0
+1:1/animation_frame_2/duration = 1.0
+1:1/animation_frame_3/duration = 1.0
+1:1/animation_frame_4/duration = 1.0
+1:1/animation_frame_5/duration = 1.0
+1:1/0 = 0
+1:1/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+1:1/0/physics_layer_0/angular_velocity = 0.0
+2:1/animation_columns = 6
+2:1/animation_separation = Vector2i(4, 0)
+2:1/animation_frame_0/duration = 1.0
+2:1/animation_frame_1/duration = 1.0
+2:1/animation_frame_2/duration = 1.0
+2:1/animation_frame_3/duration = 1.0
+2:1/animation_frame_4/duration = 1.0
+2:1/animation_frame_5/duration = 1.0
+2:1/0 = 0
+2:1/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+2:1/0/physics_layer_0/angular_velocity = 0.0
+3:1/animation_columns = 6
+3:1/animation_separation = Vector2i(4, 0)
+3:1/animation_frame_0/duration = 1.0
+3:1/animation_frame_1/duration = 1.0
+3:1/animation_frame_2/duration = 1.0
+3:1/animation_frame_3/duration = 1.0
+3:1/animation_frame_4/duration = 1.0
+3:1/animation_frame_5/duration = 1.0
+3:1/0 = 0
+3:1/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+3:1/0/physics_layer_0/angular_velocity = 0.0
+4:1/animation_columns = 6
+4:1/animation_separation = Vector2i(4, 0)
+4:1/animation_frame_0/duration = 1.0
+4:1/animation_frame_1/duration = 1.0
+4:1/animation_frame_2/duration = 1.0
+4:1/animation_frame_3/duration = 1.0
+4:1/animation_frame_4/duration = 1.0
+4:1/animation_frame_5/duration = 1.0
+4:1/0 = 0
+4:1/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+4:1/0/physics_layer_0/angular_velocity = 0.0
+0:2/animation_columns = 6
+0:2/animation_separation = Vector2i(4, 0)
+0:2/animation_frame_0/duration = 1.0
+0:2/animation_frame_1/duration = 1.0
+0:2/animation_frame_2/duration = 1.0
+0:2/animation_frame_3/duration = 1.0
+0:2/animation_frame_4/duration = 1.0
+0:2/animation_frame_5/duration = 1.0
+0:2/0 = 0
+0:2/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+0:2/0/physics_layer_0/angular_velocity = 0.0
+1:2/animation_columns = 6
+1:2/animation_separation = Vector2i(4, 0)
+1:2/animation_frame_0/duration = 1.0
+1:2/animation_frame_1/duration = 1.0
+1:2/animation_frame_2/duration = 1.0
+1:2/animation_frame_3/duration = 1.0
+1:2/animation_frame_4/duration = 1.0
+1:2/animation_frame_5/duration = 1.0
+1:2/0 = 0
+1:2/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+1:2/0/physics_layer_0/angular_velocity = 0.0
+2:2/animation_columns = 6
+2:2/animation_separation = Vector2i(4, 0)
+2:2/animation_frame_0/duration = 1.0
+2:2/animation_frame_1/duration = 1.0
+2:2/animation_frame_2/duration = 1.0
+2:2/animation_frame_3/duration = 1.0
+2:2/animation_frame_4/duration = 1.0
+2:2/animation_frame_5/duration = 1.0
+2:2/0 = 0
+2:2/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+2:2/0/physics_layer_0/angular_velocity = 0.0
+3:2/animation_columns = 6
+3:2/animation_separation = Vector2i(4, 0)
+3:2/animation_frame_0/duration = 1.0
+3:2/animation_frame_1/duration = 1.0
+3:2/animation_frame_2/duration = 1.0
+3:2/animation_frame_3/duration = 1.0
+3:2/animation_frame_4/duration = 1.0
+3:2/animation_frame_5/duration = 1.0
+3:2/0 = 0
+3:2/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+3:2/0/physics_layer_0/angular_velocity = 0.0
+4:2/animation_columns = 6
+4:2/animation_separation = Vector2i(4, 0)
+4:2/animation_frame_0/duration = 1.0
+4:2/animation_frame_1/duration = 1.0
+4:2/animation_frame_2/duration = 1.0
+4:2/animation_frame_3/duration = 1.0
+4:2/animation_frame_4/duration = 1.0
+4:2/animation_frame_5/duration = 1.0
+4:2/0 = 0
+4:2/0/physics_layer_0/linear_velocity = Vector2(0, 0)
+4:2/0/physics_layer_0/angular_velocity = 0.0
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_vnco6"]
 texture = ExtResource("3_nkfvi")
@@ -711,3 +847,4 @@ sources/8 = SubResource("TileSetAtlasSource_io3ef")
 sources/9 = SubResource("TileSetAtlasSource_ylk2i")
 sources/10 = SubResource("TileSetAtlasSource_no7s0")
 sources/11 = SubResource("TileSetAtlasSource_g1idd")
+sources/12 = SubResource("TileSetAtlasSource_gccj4")

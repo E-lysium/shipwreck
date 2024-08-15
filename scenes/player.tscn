@@ -372,7 +372,7 @@ animations = [{
 "duration": 1.0,
 "texture": SubResource("AtlasTexture_gcs4x")
 }],
-"loop": true,
+"loop": false,
 "name": &"getting_up",
 "speed": 5.0
 }, {
@@ -453,7 +453,9 @@ script = ExtResource("1_0bskv")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 sprite_frames = SubResource("SpriteFrames_wen6c")
-animation = &"side_walk"
+animation = &"getting_up"
+frame = 2
+frame_progress = 1.0
 offset = Vector2(0, -15)
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
