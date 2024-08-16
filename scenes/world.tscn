@@ -1,6 +1,7 @@
-[gd_scene load_steps=4 format=3 uid="uid://bd3dpxlvi2rgx"]
+[gd_scene load_steps=5 format=3 uid="uid://bd3dpxlvi2rgx"]
 
 [ext_resource type="TileSet" uid="uid://cd3tuywgvh1pj" path="res://art/tilesets/world.tres" id="1_j7ks3"]
+[ext_resource type="PackedScene" uid="uid://bul6s4gfhknlu" path="res://scenes/ui.tscn" id="4_gb622"]
 [ext_resource type="PackedScene" uid="uid://bllyg8lvhhmw4" path="res://scenes/player.tscn" id="4_r5aec"]
 [ext_resource type="PackedScene" uid="uid://iowrtoft1p81" path="res://scenes/enemy.tscn" id="5_88o83"]
 
@@ -37,3 +38,5 @@ position = Vector2(155, -360)
 [node name="enemy" parent="." instance=ExtResource("5_88o83")]
 z_index = 1
 position = Vector2(231, 176)
+
+[node name="ui" parent="." instance=ExtResource("4_gb622")]

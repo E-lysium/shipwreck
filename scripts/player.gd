@@ -11,8 +11,11 @@ var enemy_attack_cooldown = true
 var player_alive = true
 var attack_in_progress = false
 
+@onready var anim = $AnimatedSprite2D
+@onready var ui = $"../ui" as ui
+
 func _ready():
-	$AnimatedSprite2D.play("front_idle")
+	anim.play("front_idle")
 	
 	# camera functionality
 	var tilemap_rect = get_parent().get_node("TileMap").get_used_rect() 
@@ -34,7 +37,8 @@ func _physics_process(delta):
 		player_alive = false #add end screen here (back to menu, respawn, etc.)
 		Global.player_health = -1
 		print("player has been killed")
-		$AnimatedSprite2D.play("death")
+		anim.play("death")
+		ui.on_game_over()
 		#self.queue_free()
 	
 func player_movement(delta):
@@ -69,7 +73,7 @@ func player_movement(delta):
 # player sprite animation
 func play_anim(movement, current_dir):
 	var dir = current_dir
-	var anim = $AnimatedSprite2D
+	
 	
 	match dir:
 		"right":
@@ -117,18 +121,18 @@ func attack():
 		
 		match dir:
 			"right":
-				$AnimatedSprite2D.flip_h = false
-				$AnimatedSprite2D.play("side_attack")
+				anim.flip_h = false
+				anim.play("side_attack")
 				$deal_attack_timer.start()
 			"left":
-				$AnimatedSprite2D.flip_h = true
-				$AnimatedSprite2D.play("side_attack")
+				anim.flip_h = true
+				anim.play("side_attack")
 				$deal_attack_timer.start()
 			"down":
-				$AnimatedSprite2D.play("front_attack")
+				anim.play("front_attack")
 				$deal_attack_timer.start()
 			"up":
-				$AnimatedSprite2D.play("back_attack")
+				anim.play("back_attack")
 				$deal_attack_timer.start()	
 
 func enemy_attack():
