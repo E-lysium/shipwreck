@@ -11,6 +11,7 @@ var health = max_health
 var player_in_attack_range = false
 var can_take_damage = true
 
+#add default anim
 
 # enemy functionality
 func _physics_process(delta):
