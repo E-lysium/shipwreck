@@ -1,2 +1,11 @@
-Ugh, my head.
-<Empty Text Event>
+[signal arg="getting_up"]
+Ugh, my head...
+[signal arg="right"]
+[wait time="1.0"]
+[signal arg="left"]
+What...
+[signal arg="up"]
+[wait time="1.0" hide_text="false"]
+[signal arg="down"]
+...happened...?
+[wait time="1.0"]

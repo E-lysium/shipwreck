@@ -26,7 +26,7 @@ directories/dch_directory={}
 directories/dtl_directory={
 "timeline": "res://timeline.dtl"
 }
-text/letter_speed=0.01
+text/letter_speed=0.05
 text/initial_text_reveal_skippable=true
 text/text_reveal_skip_delay=0.1
 text/advance_delay=0.1
@@ -45,6 +45,11 @@ save/encryption_on_exports_only=true
 text/autopauses={}
 layout/style_list=[]
 layout/default_style="Default"
+text/autoadvance_enabled=true
+text/autoadvance_fixed_delay=0.0
+text/autoadvance_per_word_delay=0
+glossary/default_case_sensitive=true
+variables={}
 
 [dotnet]
 
