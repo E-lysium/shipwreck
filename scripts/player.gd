@@ -14,8 +14,9 @@ var attack_in_progress = false
 @onready var anim = $AnimatedSprite2D
 @onready var ui = $"../ui" as ui
 
+
 func _ready():
-	anim.play("front_idle")
+	#anim.play("front_idle")
 	
 	# camera functionality
 	var tilemap_rect = get_parent().get_node("TileMap").get_used_rect() 
@@ -28,42 +29,43 @@ func _ready():
 
 # player functionality
 func _physics_process(delta):
-	if Global.player_health > 0:
-		player_movement(delta)
-		attack()
-		enemy_attack()
-		update_health()
-	elif Global.player_health == 0:
-		player_alive = false #add end screen here (back to menu, respawn, etc.)
-		Global.player_health = -1
-		print("player has been killed")
-		anim.play("death")
-		ui.on_game_over()
-		#self.queue_free()
+	if !Global.in_cutscene:
+		if Global.player_health > 0:
+			player_movement(delta)
+			attack()
+			enemy_attack()
+			update_health()
+		elif Global.player_health == 0:
+			player_alive = false #add end screen here (back to menu, respawn, etc.)
+			Global.player_health = -1
+			print("player has been killed")
+			anim.play("death")
+			ui.on_game_over()
+			#self.queue_free()
 	
 func player_movement(delta):
 	if Input.is_action_pressed("ui_right"):
 		current_dir = "right"
-		play_anim(1, current_dir)
+		play_anim(1, current_dir, 1)
 		velocity.x = speed
 		velocity.y = 0
 	elif Input.is_action_pressed("ui_left"):
 		current_dir = "left"
-		play_anim(1, current_dir)
+		play_anim(1, current_dir, 1)
 		velocity.x = -speed
 		velocity.y = 0
 	elif Input.is_action_pressed("ui_down"):
 		current_dir = "down"
-		play_anim(1, current_dir)
+		play_anim(1, current_dir, 1)
 		velocity.x = 0
 		velocity.y = speed
 	elif Input.is_action_pressed("ui_up"):
 		current_dir = "up"
-		play_anim(1, current_dir)
+		play_anim(1, current_dir, 1)
 		velocity.x = 0
 		velocity.y = -speed
 	else:
-		play_anim(0, current_dir)
+		play_anim(0, current_dir, 1)
 		velocity.x = 0
 		velocity.y = 0
 	
@@ -71,9 +73,9 @@ func player_movement(delta):
 
 
 # player sprite animation
-func play_anim(movement, current_dir):
+func play_anim(movement, current_dir, anim_speed):
 	var dir = current_dir
-	
+	anim.speed_scale = anim_speed
 	
 	match dir:
 		"right":
@@ -106,6 +108,9 @@ func play_anim(movement, current_dir):
 			anim.play("death")
 		"getting_up":
 			anim.play("getting_up")
+
+func stop_anim():
+	anim.stop()
 
 
 # player combat

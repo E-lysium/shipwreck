@@ -42,6 +42,7 @@ scale = Vector2(3, 2)
 texture = ExtResource("2_pwqtw")
 
 [node name="Label" type="Label" parent="RespawnControl/end_of_game_screen/RespawnButton"]
+layout_mode = 0
 offset_left = 11.0
 offset_top = 6.0
 offset_right = 185.0
@@ -64,6 +65,7 @@ scale = Vector2(3, 2)
 texture = ExtResource("2_pwqtw")
 
 [node name="Label" type="Label" parent="RespawnControl/end_of_game_screen/MainMenuButton"]
+layout_mode = 0
 offset_left = 11.0
 offset_top = 6.0
 offset_right = 185.0
