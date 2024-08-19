@@ -1,0 +1,43 @@
+[gd_resource type="Theme" load_steps=7 format=3 uid="uid://dpxnkni1dr1ag"]
+
+[ext_resource type="FontFile" path="res://BigBlueTermPlusNerdFont-Regular.ttf" id="1_p1uop"]
+[ext_resource type="Texture2D" uid="uid://bj1rtmn2bxby2" path="res://art/ui/12_Metalworks_Theme/Sprites/UI_Metalworks_Button02a_1.png" id="2_135aw"]
+[ext_resource type="Texture2D" uid="uid://b0cui4tvg3u42" path="res://art/ui/12_Metalworks_Theme/Sprites/UI_Metalworks_Frame01a.png" id="3_m4xgn"]
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_fnolc"]
+texture = ExtResource("2_135aw")
+texture_margin_left = 8.0
+texture_margin_top = 8.0
+texture_margin_right = 8.0
+texture_margin_bottom = 8.0
+region_rect = Rect2(0, 0, 64, 32)
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_mdsqp"]
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_r8ulp"]
+texture = ExtResource("3_m4xgn")
+texture_margin_left = 24.0
+texture_margin_top = 24.0
+texture_margin_right = 24.0
+texture_margin_bottom = 24.0
+
+[resource]
+Button/font_sizes/font_size = 14
+Button/fonts/font = ExtResource("1_p1uop")
+Button/styles/normal = SubResource("StyleBoxTexture_fnolc")
+Label/colors/font_color = Color(1, 1, 1, 1)
+Label/colors/font_outline_color = Color(1, 1, 1, 1)
+Label/colors/font_shadow_color = Color(0, 0, 0, 0)
+Label/constants/line_spacing = 3
+Label/constants/outline_size = 0
+Label/constants/shadow_offset_x = 1
+Label/constants/shadow_offset_y = 1
+Label/constants/shadow_outline_size = 1
+Label/font_sizes/font_size = 16
+Label/fonts/font = ExtResource("1_p1uop")
+Label/styles/normal = SubResource("StyleBoxEmpty_mdsqp")
+MarginContainer/constants/margin_bottom = 8
+MarginContainer/constants/margin_left = 8
+MarginContainer/constants/margin_right = 8
+MarginContainer/constants/margin_top = 8
+PanelContainer/styles/panel = SubResource("StyleBoxTexture_r8ulp")

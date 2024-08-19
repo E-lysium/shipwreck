@@ -59,6 +59,10 @@ project/assembly_name="shipwreck"
 
 enabled=PackedStringArray("res://addons/Todo_Manager/plugin.cfg", "res://addons/dialogic/plugin.cfg")
 
+[gui]
+
+theme/custom="res://base_theme.tres"
+
 [input]
 
 attack={
